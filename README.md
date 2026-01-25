@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Adam Rafai</h1>
+<p align="center"><b>Software Engineering Student | Polytechnique Montréal</b></p>
 
-<!--
-**Rafai-Adam/Rafai-Adam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
+Software Engineering student at Polytechnique Montréal with a strong interest in building efficient, scalable software systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experienced in full-stack development, algorithm design, and embedded systems programming.  
+Motivated by problem-solving, clean architecture, and continuous learning.
+
+---
+
+## Featured Projects
+
+| Project | Description |
+|--------|------------|
+| **Tetris** | Classic Tetris implementation with modern features |
+| **Chess** | Full-featured chess game with complete rule enforcement |
+| **StudyScore** | Student grade management system |
+| **AVR Microcontroller Robot** | Autonomous robot with sensor integration |
+
+---
+
+## Contact Information
+<p>
+  <a href="mailto:ton.email@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/ton-profil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
