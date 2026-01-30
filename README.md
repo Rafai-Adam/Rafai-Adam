@@ -17,7 +17,8 @@ Motivated by problem-solving, clean architecture, and continuous learning.
 |--------|------------|
 | **Tetris** | Classic Tetris implementation with modern features |
 | **Chess** | Full-featured chess game with complete rule enforcement |
-| **StudyScore** | Student grade management system |
+| **PacMan** | Classic Pac-Man implementation |
+| **Online-Multiplayer-RPG-Platform** | Multiplayer strategy game with real-time combat system |
 | **AVR Microcontroller Robot** | Autonomous robot with sensor integration |
 
 ---
